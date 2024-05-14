@@ -1,0 +1,1127 @@
+{
+   "images": [
+      {
+         "id": 0,
+         "license": 1,
+         "file_name": "fertile_(6).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(6).jpg"
+      },
+      {
+         "id": 1,
+         "license": 1,
+         "file_name": "fertile_(38).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(38).jpg"
+      },
+      {
+         "id": 2,
+         "license": 1,
+         "file_name": "fertile_(43).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(43).jpg"
+      },
+      {
+         "id": 3,
+         "license": 1,
+         "file_name": "fertile_(45).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(45).jpg"
+      },
+      {
+         "id": 4,
+         "license": 1,
+         "file_name": "fertile_(76).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(76).jpg"
+      },
+      {
+         "id": 5,
+         "license": 1,
+         "file_name": "fertile_(85).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(85).jpg"
+      },
+      {
+         "id": 6,
+         "license": 1,
+         "file_name": "fertile_(104).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(104).jpg"
+      },
+      {
+         "id": 7,
+         "license": 1,
+         "file_name": "fertile_(116).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(116).jpg"
+      },
+      {
+         "id": 8,
+         "license": 1,
+         "file_name": "fertile_(131).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(131).jpg"
+      },
+      {
+         "id": 9,
+         "license": 1,
+         "file_name": "fertile_(150).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(150).jpg"
+      },
+      {
+         "id": 10,
+         "license": 1,
+         "file_name": "fertile_(160).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(160).jpg"
+      },
+      {
+         "id": 11,
+         "license": 1,
+         "file_name": "fertile_(182).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(182).jpg"
+      },
+      {
+         "id": 12,
+         "license": 1,
+         "file_name": "fertile_(196).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(196).jpg"
+      },
+      {
+         "id": 13,
+         "license": 1,
+         "file_name": "fertile_(224).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(224).jpg"
+      },
+      {
+         "id": 14,
+         "license": 1,
+         "file_name": "fertile_(239).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(239).jpg"
+      },
+      {
+         "id": 15,
+         "license": 1,
+         "file_name": "fertile_(253).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(253).jpg"
+      },
+      {
+         "id": 16,
+         "license": 1,
+         "file_name": "fertile_(267).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(267).jpg"
+      },
+      {
+         "id": 17,
+         "license": 1,
+         "file_name": "fertile_(320).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(320).jpg"
+      },
+      {
+         "id": 18,
+         "license": 1,
+         "file_name": "fertile_(323).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(323).jpg"
+      },
+      {
+         "id": 19,
+         "license": 1,
+         "file_name": "fertile_(326).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(326).jpg"
+      },
+      {
+         "id": 20,
+         "license": 1,
+         "file_name": "fertile_(336).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(336).jpg"
+      },
+      {
+         "id": 21,
+         "license": 1,
+         "file_name": "fertile_(354).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(354).jpg"
+      },
+      {
+         "id": 22,
+         "license": 1,
+         "file_name": "fertile_(358).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(358).jpg"
+      },
+      {
+         "id": 23,
+         "license": 1,
+         "file_name": "fertile_(370).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T19:25:08+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_fertile_(370).jpg"
+      },
+      {
+         "id": 24,
+         "license": 1,
+         "file_name": "unfertile_(402).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(402).jpg"
+      },
+      {
+         "id": 25,
+         "license": 1,
+         "file_name": "unfertile_(441).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(441).jpg"
+      },
+      {
+         "id": 26,
+         "license": 1,
+         "file_name": "unfertile_(443).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(443).jpg"
+      },
+      {
+         "id": 27,
+         "license": 1,
+         "file_name": "unfertile_(482).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(482).jpg"
+      },
+      {
+         "id": 28,
+         "license": 1,
+         "file_name": "unfertile_(503).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(503).jpg"
+      },
+      {
+         "id": 29,
+         "license": 1,
+         "file_name": "unfertile_(505).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(505).jpg"
+      },
+      {
+         "id": 30,
+         "license": 1,
+         "file_name": "unfertile_(509).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(509).jpg"
+      },
+      {
+         "id": 31,
+         "license": 1,
+         "file_name": "unfertile_(515).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(515).jpg"
+      },
+      {
+         "id": 32,
+         "license": 1,
+         "file_name": "unfertile_(567).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(567).jpg"
+      },
+      {
+         "id": 33,
+         "license": 1,
+         "file_name": "unfertile_(584).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(584).jpg"
+      },
+      {
+         "id": 34,
+         "license": 1,
+         "file_name": "unfertile_(602).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(602).jpg"
+      },
+      {
+         "id": 35,
+         "license": 1,
+         "file_name": "unfertile_(675).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(675).jpg"
+      },
+      {
+         "id": 36,
+         "license": 1,
+         "file_name": "unfertile_(683).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(683).jpg"
+      },
+      {
+         "id": 37,
+         "license": 1,
+         "file_name": "unfertile_(688).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(688).jpg"
+      },
+      {
+         "id": 38,
+         "license": 1,
+         "file_name": "unfertile_(690).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(690).jpg"
+      },
+      {
+         "id": 39,
+         "license": 1,
+         "file_name": "unfertile_(696).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(696).jpg"
+      },
+      {
+         "id": 40,
+         "license": 1,
+         "file_name": "unfertile_(709).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(709).jpg"
+      },
+      {
+         "id": 41,
+         "license": 1,
+         "file_name": "unfertile_(751).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(751).jpg"
+      },
+      {
+         "id": 42,
+         "license": 1,
+         "file_name": "unfertile_(758).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(758).jpg"
+      },
+      {
+         "id": 43,
+         "license": 1,
+         "file_name": "unfertile_(772).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(772).jpg"
+      },
+      {
+         "id": 44,
+         "license": 1,
+         "file_name": "unfertile_(778).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(778).jpg"
+      },
+      {
+         "id": 45,
+         "license": 1,
+         "file_name": "unfertile_(792).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(792).jpg"
+      },
+      {
+         "id": 46,
+         "license": 1,
+         "file_name": "unfertile_(794).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(794).jpg"
+      },
+      {
+         "id": 47,
+         "license": 1,
+         "file_name": "unfertile_(809).jpg",
+         "height": 2048,
+         "width": 2048,
+         "date_captured": "2024-03-31T00:58:55+00:00",
+         "mask": "/content/dataset(v2)/dataset(v2)_masks/mask_for_unfertile_(809).jpg"
+      }
+   ],
+   "annotations": [
+      {
+         "id": 0,
+         "image_id": 0,
+         "category_id": 1,
+         "bbox": [
+            456,
+            836,
+            1340,
+            469
+         ],
+         "area": 628460,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 1,
+         "image_id": 1,
+         "category_id": 1,
+         "bbox": [
+            852,
+            702,
+            972,
+            568
+         ],
+         "area": 552096,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 2,
+         "image_id": 2,
+         "category_id": 1,
+         "bbox": [
+            651,
+            410,
+            832,
+            1512
+         ],
+         "area": 1257984,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 3,
+         "image_id": 3,
+         "category_id": 1,
+         "bbox": [
+            347,
+            583,
+            1422,
+            799
+         ],
+         "area": 1136178,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 4,
+         "image_id": 4,
+         "category_id": 1,
+         "bbox": [
+            718,
+            780,
+            610.5,
+            1158.5
+         ],
+         "area": 707264.25,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 5,
+         "image_id": 5,
+         "category_id": 1,
+         "bbox": [
+            820,
+            915,
+            588,
+            1014
+         ],
+         "area": 596232,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 6,
+         "image_id": 6,
+         "category_id": 1,
+         "bbox": [
+            883,
+            685,
+            942,
+            544
+         ],
+         "area": 512448,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 7,
+         "image_id": 7,
+         "category_id": 1,
+         "bbox": [
+            649,
+            593,
+            721,
+            1273
+         ],
+         "area": 917833,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 8,
+         "image_id": 8,
+         "category_id": 1,
+         "bbox": [
+            588,
+            360,
+            775,
+            1359.5
+         ],
+         "area": 1053612.5,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 9,
+         "image_id": 9,
+         "category_id": 1,
+         "bbox": [
+            629,
+            544,
+            725,
+            1222
+         ],
+         "area": 885950,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 10,
+         "image_id": 10,
+         "category_id": 1,
+         "bbox": [
+            342,
+            548,
+            1158,
+            635
+         ],
+         "area": 735330,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 11,
+         "image_id": 11,
+         "category_id": 1,
+         "bbox": [
+            324,
+            744,
+            1039,
+            584
+         ],
+         "area": 606776,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 12,
+         "image_id": 12,
+         "category_id": 1,
+         "bbox": [
+            68,
+            546,
+            1798,
+            1093
+         ],
+         "area": 1965214,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 13,
+         "image_id": 13,
+         "category_id": 1,
+         "bbox": [
+            330,
+            494,
+            763.5,
+            1320
+         ],
+         "area": 1007820,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 14,
+         "image_id": 14,
+         "category_id": 1,
+         "bbox": [
+            659,
+            591,
+            522,
+            1422
+         ],
+         "area": 742284,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 15,
+         "image_id": 15,
+         "category_id": 1,
+         "bbox": [
+            476,
+            398,
+            781,
+            1365.5
+         ],
+         "area": 1066455.5,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 16,
+         "image_id": 16,
+         "category_id": 1,
+         "bbox": [
+            734,
+            581,
+            667.5,
+            1208.5
+         ],
+         "area": 806673.75,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 17,
+         "image_id": 17,
+         "category_id": 1,
+         "bbox": [
+            528,
+            639,
+            903,
+            506
+         ],
+         "area": 456918,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 18,
+         "image_id": 18,
+         "category_id": 1,
+         "bbox": [
+            666,
+            347,
+            798.5,
+            1422
+         ],
+         "area": 1135467,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 19,
+         "image_id": 19,
+         "category_id": 1,
+         "bbox": [
+            258,
+            734,
+            1209,
+            667
+         ],
+         "area": 806403,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 20,
+         "image_id": 20,
+         "category_id": 1,
+         "bbox": [
+            638,
+            675,
+            559,
+            1007
+         ],
+         "area": 562913,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 21,
+         "image_id": 21,
+         "category_id": 1,
+         "bbox": [
+            899,
+            726,
+            551.5,
+            969.5
+         ],
+         "area": 534679.25,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 22,
+         "image_id": 22,
+         "category_id": 1,
+         "bbox": [
+            531,
+            767,
+            1079,
+            603
+         ],
+         "area": 650637,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 23,
+         "image_id": 23,
+         "category_id": 1,
+         "bbox": [
+            758,
+            462,
+            669.5,
+            1175.5
+         ],
+         "area": 786997.25,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 24,
+         "image_id": 24,
+         "category_id": 2,
+         "bbox": [
+            591,
+            245,
+            929,
+            1622
+         ],
+         "area": 1506838,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 25,
+         "image_id": 25,
+         "category_id": 2,
+         "bbox": [
+            87,
+            138,
+            1888,
+            1782
+         ],
+         "area": 3364416,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 26,
+         "image_id": 26,
+         "category_id": 2,
+         "bbox": [
+            619,
+            623,
+            1082,
+            1260
+         ],
+         "area": 1363320,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 27,
+         "image_id": 27,
+         "category_id": 2,
+         "bbox": [
+            413,
+            182,
+            1312,
+            954
+         ],
+         "area": 1251648,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 28,
+         "image_id": 28,
+         "category_id": 2,
+         "bbox": [
+            247,
+            442,
+            1426,
+            1393
+         ],
+         "area": 1986418,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 29,
+         "image_id": 29,
+         "category_id": 2,
+         "bbox": [
+            87,
+            128,
+            1888,
+            1782
+         ],
+         "area": 3364416,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 30,
+         "image_id": 30,
+         "category_id": 2,
+         "bbox": [
+            107,
+            474,
+            1672,
+            975
+         ],
+         "area": 1630200,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 31,
+         "image_id": 31,
+         "category_id": 2,
+         "bbox": [
+            840,
+            81,
+            742,
+            1259
+         ],
+         "area": 934178,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 32,
+         "image_id": 32,
+         "category_id": 2,
+         "bbox": [
+            7,
+            467,
+            1779,
+            1200
+         ],
+         "area": 2134800,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 33,
+         "image_id": 33,
+         "category_id": 2,
+         "bbox": [
+            246,
+            519,
+            1554,
+            907
+         ],
+         "area": 1409478,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 34,
+         "image_id": 34,
+         "category_id": 2,
+         "bbox": [
+            320,
+            432,
+            1292,
+            1207
+         ],
+         "area": 1559444,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 35,
+         "image_id": 35,
+         "category_id": 2,
+         "bbox": [
+            717,
+            406,
+            614,
+            1332
+         ],
+         "area": 817848,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 36,
+         "image_id": 36,
+         "category_id": 2,
+         "bbox": [
+            430,
+            347,
+            955,
+            1634
+         ],
+         "area": 1560470,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 37,
+         "image_id": 37,
+         "category_id": 2,
+         "bbox": [
+            323,
+            912,
+            1312,
+            954
+         ],
+         "area": 1251648,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 38,
+         "image_id": 38,
+         "category_id": 2,
+         "bbox": [
+            367,
+            505,
+            724.5,
+            1242.5
+         ],
+         "area": 900191.25,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 39,
+         "image_id": 39,
+         "category_id": 2,
+         "bbox": [
+            182,
+            413,
+            954,
+            1312
+         ],
+         "area": 1251648,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 40,
+         "image_id": 40,
+         "category_id": 2,
+         "bbox": [
+            181,
+            250,
+            1630.5,
+            1542.5
+         ],
+         "area": 2515046.25,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 41,
+         "image_id": 41,
+         "category_id": 2,
+         "bbox": [
+            295,
+            273,
+            845,
+            1434
+         ],
+         "area": 1211730,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 42,
+         "image_id": 42,
+         "category_id": 2,
+         "bbox": [
+            182,
+            250,
+            1630,
+            1542
+         ],
+         "area": 2513460,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 43,
+         "image_id": 43,
+         "category_id": 2,
+         "bbox": [
+            494,
+            340,
+            1088,
+            1158
+         ],
+         "area": 1259904,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 44,
+         "image_id": 44,
+         "category_id": 2,
+         "bbox": [
+            717,
+            330,
+            752,
+            1208
+         ],
+         "area": 908416,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 45,
+         "image_id": 45,
+         "category_id": 2,
+         "bbox": [
+            467,
+            340,
+            1088,
+            1158
+         ],
+         "area": 1259904,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 46,
+         "image_id": 46,
+         "category_id": 2,
+         "bbox": [
+            327,
+            359,
+            1364,
+            1337
+         ],
+         "area": 1823668,
+         "segmentation": [],
+         "iscrowd": 0
+      },
+      {
+         "id": 47,
+         "image_id": 47,
+         "category_id": 2,
+         "bbox": [
+            165,
+            619,
+            1260,
+            1082
+         ],
+         "area": 1363320,
+         "segmentation": [],
+         "iscrowd": 0
+      }
+   ],
+   "categories": [
+      {
+         "id": 0,
+         "name": "background",
+         "supercategory": "none"
+      },
+      {
+         "id": 1,
+         "name": "fertile",
+         "supercategory": "eggs-7k6w-0iE5"
+      },
+      {
+         "id": 2,
+         "name": "unfertile",
+         "supercategory": "eggs-7k6w-0iE5"
+      }
+   ]
+}
