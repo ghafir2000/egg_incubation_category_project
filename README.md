@@ -11,8 +11,18 @@ This project uses several scripts from the PyTorch Vision repository:
 - coco_utils.py: This script helps in loading the COCO dataset and converting annotations for the model.
 - coco_eval.py: This script is used for evaluating the model on the COCO dataset.
 - transforms.py: This script is used for applying transformations to the images and targets before feeding them to the model.
-
+  
 These scripts are used under the terms of their license.
+
+the project is run through the following files
+- guiproject101.py: a Gui main code that is used to run the entire project
+- move_arduino.ino and env_arduino.ino : both Arduino codes that are used to move the robotic arm and control the incubation environment
+- mymodel.py: the classification and segmentation model handling code
+- holders.py: an egg holder code handled through a Mini database (dict of dicts) and a queue data structure representing an action to be made on a certain egg slot
+- command.py: the command code used to handle communication from raspberry pi to Arduinos
+- move_eggs.py: egg moving scripts based on outputs from action queue
+- one_egg_sample.py: a code to handle predictions generation through the model
+
 
 ## Original Notebook
 
